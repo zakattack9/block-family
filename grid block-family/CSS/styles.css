@@ -44,6 +44,7 @@ div h2 {
   .container div {
     float: left;
     width: 49%;
+    margin: .50%
   }
 }
 
